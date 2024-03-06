@@ -4,8 +4,8 @@ This file contains the addresses of some of the deployed contracts.
 Token addresses :
 
 * Goerli :
-** DauCoin :   0x5Bf6b79c5a9C952B31db61BaF9eC6aE802c9db9E
-** PhineCoin : 0xF7aDD53aD2242A7639607089e574d163dFCA5690
+** DauCoin :   0x1Aa44FC1F6De8f1e138309Ffbf4E039392bD8Cd5
+** PhineCoin : 0xC457d2B33803f8484e3496bdE25aE187E487B801
 
 * Sepolia :
 ** DauCoin :   0xeb82c2b48Cfa4709E5B61001A5CbA6B062443833
