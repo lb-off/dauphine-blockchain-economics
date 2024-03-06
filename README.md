@@ -1,6 +1,6 @@
-# Dauphine-297-Blockchain class
+# Dauphine-Blockchain class
 
-This repo contains smart contracts for the blockchain economics class in the master 297 at Paris-Dauphine University.
+This repo contains smart contracts for the blockchain economics class at Paris-Dauphine University.
 
 It contains the Solidity code of 2 tokens (the DauCoin and the PhineCoin), as well as a simplified version of an AMM similar to UniSwap v2 with a Constant Product pricing function.
 
