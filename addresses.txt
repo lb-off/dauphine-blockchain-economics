@@ -15,5 +15,5 @@ Token addresses :
 
 AMM address :
 
-* Goerli :  0xa55368c603AbBc21aC6AF6B654650b8882f87A1D
+* Goerli :  0xa3ff43E6212f142f641Ba017188afDd4f2aDcbf8
 * Sepolia : 0x8C583cC5b4c84dBddA2150ACbEF074f6Bde988e9
