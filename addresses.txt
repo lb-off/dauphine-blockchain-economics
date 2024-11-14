@@ -3,12 +3,7 @@ This file contains the addresses of some of the deployed contracts.
 
 Contract addresses :
 
-* Goerli :
-** DauCoin :   0x1Aa44FC1F6De8f1e138309Ffbf4E039392bD8Cd5
-** PhineCoin : 0xC457d2B33803f8484e3496bdE25aE187E487B801
-** AMM :       0xa3ff43E6212f142f641Ba017188afDd4f2aDcbf8
-
 * Sepolia :
-** DauCoin :   0xf3a7659B6C2374529f568ad862c64FC08323C604
-** PhineCoin : 0xb36Df099c7a036E3f2d8050a0F06cAdABbf07C61
-** AMM :       0x09CFCB48cd4481829CA9C93Ef3e7406c501eA495
+** DauCoin :   0x790536CeAE90E956031870dCEf1ffC987eF8Ec5C
+** PhineCoin : 0xDf02b88bAC038B60f5fB12D286814e718C26968e
+** AMM :       0x68ec27d22756778E9c66542aA4399206FDf1eC75
